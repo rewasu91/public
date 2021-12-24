@@ -19,7 +19,7 @@ rm port-xrayvmess
 wget -O add-xrayvlessxtls "https://raw.githubusercontent.com/rewasu91/files/main/add/add-xrayvlessxtls.sh"
 wget -O show-xrayvlessxtls "https://raw.githubusercontent.com/rewasu91/files/main/show/show-xrayvlessxtls.sh"
 wget -O port-ovpn "https://raw.githubusercontent.com/rewasu91/files/main/editport/port-ovpn.sh"
-wget -O port-squid "https://raw.githubusercontent.com/rewasu91/files/main/editport/port-squid"
+wget -O port-squid "https://raw.githubusercontent.com/rewasu91/files/main/editport/port-squid.sh"
 wget -O port-ssl "https://raw.githubusercontent.com/rewasu91/files/main/editport/port-ssl.sh"
 wget -O port-sstp "https://raw.githubusercontent.com/rewasu91/files/main/editport/port-sstp.sh"
 wget -O port-tr "https://raw.githubusercontent.com/rewasu91/files/main/editport/port-tr.sh"

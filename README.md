@@ -29,11 +29,19 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ♦️ Wireguard <br>
 ♦️ Shadowsocks <br>
 ♦️ ShadowsocksR <br>
-♦️ V2rayVless <br>
-♦️ V2rayVmess <br>
-♦️ XrayVlss <br>
-♦️ XrayVlssXTLS <br>
-♦️ XrayVmess <br>
+♦️ V2ray Vless TLS<br>
+♦️ V2ray Vless None TLS<br>
+♦️ V2ray Vmess TLS <br>
+♦️ V2ray Vmess None TLS <br>
+♦️ V2ray Vmess KCP <br>
+♦️ Xray Vless TCP <br>
+♦️ Xray Vless None TCP <br>
+♦️ Xray Vmess TCP <br>
+♦️ Xray Vmess None TCP <br>
+♦️ Xray Vless KCP <br>
+♦️ Xray Vless XTLS Direct <br>
+♦️ Xray Vless XTLS Splice <br>
+♦️ Xray Vless XTLS Ws <br>
 ♦️ Trojan <br>
 ♦️ Trojan Go <br>
 ♦️ L2TP <br>

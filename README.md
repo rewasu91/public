@@ -6,9 +6,9 @@
 
 ## ⏩ MAKLUMAT AUTOSKRIP ⏪
 <b>
-💵 Harga Autoskrip :: RM150 sahaja 💵 <br>
+💵 Harga Sewa Autoskrip :: RM10 untuk 1 bulan 💵 <br>
 <br>
-♦️ PM Telegram :: t.me/kaizena <br>
+♦️ PM Telegram :: https://t.me/KaizenA <br>
 <br>
 ♦️ SUPPORT DEBIAN OS (9, 10 & 11 64 bit) <br>
 ♦️ SUPPORT UBUNTU OS (18.04, 20.04 & 21.10 64 bit) <br>

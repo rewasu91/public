@@ -38,7 +38,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ♦️ Xray Vless None TCP <br>
 ♦️ Xray Vmess TCP <br>
 ♦️ Xray Vmess None TCP <br>
-♦️ Xray Vless KCP <br>
+♦️ Xray Vmess KCP <br>
 ♦️ Xray Vless XTLS Direct <br>
 ♦️ Xray Vless XTLS Splice <br>
 ♦️ Xray Vless XTLS Ws <br>

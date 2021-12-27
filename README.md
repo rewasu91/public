@@ -21,7 +21,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <br>
 </b>
 
-## ⏩ NOTA RINGKAS ⏪
+## ⏩ SERVIS ⏪
 <b>
 ♦️ SSH, Dropbear, OpenVPN & Squid <br>
 ♦️ Websocket <br>

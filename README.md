@@ -6,7 +6,7 @@
 
 ## ⏩ MAKLUMAT AUTOSKRIP ⏪
 <b>
-💵 Harga Sewa Autoskrip :: RM10 untuk 1 bulan 💵 <br>
+💵 Harga Sewa Autoskrip : 1IP RM10 untuk sebulan 💵 <br>
 <br>
 ♦️ PM Telegram :: https://t.me/KaizenA <br>
 <br>

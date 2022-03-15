@@ -15,10 +15,6 @@ Autokrip KaizenVPN
 💵 Harga Sewa Autoskrip : 1IP RM10 untuk sebulan 💵 <br>
 <br>
 ♦️ PM Telegram :: https://t.me/KaizenA <br>
-<br>
-♦️ SUPPORT DEBIAN OS (9, 10 & 11 64 bit) <br>
-♦️ SUPPORT UBUNTU OS (18.04, 20.04 & 21.10 64 bit) <br>
-<br>
 ♦️ Installation Link<br>
 <br>
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot<br>

@@ -15,6 +15,7 @@ Autokrip KaizenVPN
 💵 Harga Sewa Autoskrip : 1IP RM10 untuk sebulan 💵 <br>
 <br>
 ♦️ PM Telegram :: https://t.me/KaizenA <br>
+ <br>
 ♦️ Installation Link<br>
 <br>
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot<br>
@@ -31,20 +32,22 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ♦️ Wireguard <br>
 ♦️ Shadowsocks <br>
 ♦️ ShadowsocksR <br>
-♦️ V2ray Vless TLS<br>
-♦️ V2ray Vless None TLS<br>
-♦️ V2ray Vmess TLS <br>
-♦️ V2ray Vmess None TLS <br>
-♦️ V2ray Vmess KCP <br>
-♦️ Xray Vless TCP <br>
-♦️ Xray Vless None TCP <br>
-♦️ Xray Vmess TCP <br>
-♦️ Xray Vmess None TCP <br>
-♦️ Xray Vmess KCP <br>
-♦️ Xray Vless XTLS Direct <br>
-♦️ Xray Vless XTLS Splice <br>
-♦️ Xray Vless XTLS Ws <br>
-♦️ Trojan <br>
+♦️ V2ray Vless Tls<br>
+♦️ V2ray Vless None Tls<br>
+♦️ V2ray Vmess Tls <br>
+♦️ V2ray Vmess None Tls <br>
+♦️ Xray Vless Tls <br>
+♦️ Xray Vless None Tls <br>
+♦️ Xray Vmess Tls <br>
+♦️ Xray Vmess None Tls <br>
+♦️ Xray Vmess Kcp <br>
+♦️ Xray Vless Xtls Direct <br>
+♦️ Xray Vless Xtls Splice <br>
+♦️ Xray Vmess Grpc <br>
+♦️ Xray Vless Grpc <br>
+♦️ V2ray Trojan <br>
+♦️ Xray Trojan <br>
+♦️ Xray Trojan Grpc <br>
 ♦️ Trojan Go <br>
 ♦️ L2TP <br>
 ♦️ SSTP <br>

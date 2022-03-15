@@ -84,12 +84,3 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <img src="https://user-images.githubusercontent.com/95635242/147498630-9d209d54-813d-4cf5-aa6e-556a920831ab.png" width="400" title="men6"><br>
 <br>
 </p>
-
- ## ⏩ CARA FIX WIREGUARD TIDAK RUNNING DALAM SISTEM DEBIAN OS ⏪
-<b>
-♦️ Jalankan skrip ini
-<br>
-<br> 
-wget https://raw.githubusercontent.com/rewasu91/files/main/service/fixwgdeb.sh && chmod +x fixwgdeb.sh && ./fixwgdeb.sh
-<br>
-<b>

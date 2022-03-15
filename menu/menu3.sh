@@ -57,7 +57,7 @@ echo -e "${B}[009]${R} ► Setup Autokill SSH   ${B}[061]${R} ► Tambah masa ak
 echo -e "${B}[010]${R} ► Tunjuk Multi Login   ${B}[062]${R} ► Cek user login"
 echo -e "${B}[011]${R} ► Restart servis"
 echo -e "                             ${C}Menu Trojan Xray{R}"
-echo -e "${C}Menu L2TP{R}                     ${B}[063]${R} ► Membuat akaun"
+echo -e "${C}Menu L2TP{R}                 ${B}[063]${R} ► Membuat akaun"
 echo -e "${B}[012]${R} ► Membuat akaun        ${B}[064]${R} ► Padam akaun"
 echo -e "${B}[013]${R} ► Padam akaun          ${B}[065]${R} ► Tambah masa aktif"
 echo -e "${B}[014]${R} ► Tambah masa aktif    ${B}[066]${R} ► Cek user login"

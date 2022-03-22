@@ -9,7 +9,7 @@ Autokrip KaizenVPN
 
 ## ⏩ MAKLUMAT AUTOSKRIP ⏪
 <b>
-💵 Harga Sewa Autoskrip : 1IP RM10 untuk sebulan 💵 <br>
+💵 Harga Sewa Autoskrip : 1 IP RM10 untuk sebulan 💵 <br>
 <br>
 ♦️ PM Telegram :: https://t.me/KaizenA <br>
  <br>

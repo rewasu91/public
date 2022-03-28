@@ -1,23 +1,3 @@
-#!/bin/bash
-
-clear
-
-# ==========================================
-#text,A=Merah,B=Hijau,C=Magenta,D=Cyan
-A='\033[1;31m'
-B='\033[1;32m'
-C='\033[1;35m'
-D='\033[1;36m'
-
-#background,A1=Merah,B1=Hijau,C1=Magenta,D1=Cyan
-A1='\033[1;41m'
-B1='\033[1;42m'
-C1='\033[1;45m'
-D1='\033[1;46m'
-#reset
-R='\033[0m'
-# ==========================================
-
 clear
 echo -e ""
 echo -e ""
@@ -52,5 +32,5 @@ echo -e "${C}Servis Tidak Termasuk L2TP, SSTP, PPTP, & V2ray${R}          "
 echo -e "${B}[6]${R} Pakej 6 ► Core Xray [A,B,D,F] ${B}(Hot Pick)${R}     "
 echo -e "${B}[7]${R} Pakej 7 ► Core Xray + Trojan Go [A,B,D,F,G]          "
 echo -e "${D}—————————————————————————————————————————————————————————${R}"
-read -p "► Sila masukkan nombor pilihan anda [1-7]: " pilihan
+read -p "► Sila masukkan nombor pilihan anda ${B}[1-7]${R}: " pilihan
 echo -e ""

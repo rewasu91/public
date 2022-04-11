@@ -1,7 +1,0 @@
-cd /usr/bin
-
-rm running
-
-wget -O running "https://raw.githubusercontent.com/rewasu91/server/main/mix/running2.sh"
-
-chmod +x running

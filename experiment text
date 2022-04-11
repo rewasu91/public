@@ -16,7 +16,7 @@ E1='\033[1;47m'
 R='\033[0m'
 
 echo -e "${D}————————————————————————————————————————————————————————————————${R}"
-echo -e "${D1}                   ${E}Senarai Servis & Protokol${R}${D1}                    ${R}"
+echo -e "${E1}                   ${E}Senarai Servis & Protokol${R}${E1}                    ${R}"
 echo -e "${D}————————————————————————————————————————————————————————————————${R}"
 echo -e ""
 echo -e "      ${B}[01]${R} ► Menu SSH & OVPN     ${B}[08]${R} ► Menu SISTEM           "

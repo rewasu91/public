@@ -5,7 +5,7 @@ A='\033[1;31m'
 B='\033[1;32m'
 C='\033[1;35m'
 D='\033[1;36m'
-E='\033[1;30m'
+E='\033[1;34m'
 #background,A1=Merah,B1=Hijau,C1=Magenta,D1=Cyan
 A1='\033[1;41m'
 B1='\033[1;42m'
@@ -16,7 +16,7 @@ E1='\033[1;47m'
 R='\033[0m'
 
 echo -e "${D}————————————————————————————————————————————————————————————————${R}"
-echo -e "${D1}                   ${B}Senarai Servis & Protokol${R}${D1}                    ${R}"
+echo -e "${D1}                   ${E}Senarai Servis & Protokol${R}${D1}                    ${R}"
 echo -e "${D}————————————————————————————————————————————————————————————————${R}"
 echo -e ""
 echo -e "      ${B}[01]${R} ► Menu SSH & OVPN     ${B}[08]${R} ► Menu SISTEM           "

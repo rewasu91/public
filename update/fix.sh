@@ -14,6 +14,7 @@ rm add-xraytrojangrpc
 rm add-trgo
 rm xp
 rm cek-xrayxtls
+rm clearlog
 
 wget -O add-v2rayvless "https://raw.githubusercontent.com/rewasu91/server/main/add/add-v2rayvless.sh"
 wget -O add-v2rayvmess "https://raw.githubusercontent.com/rewasu91/server/main/add/add-v2rayvmess.sh"
@@ -27,6 +28,7 @@ wget -O add-xraytrojangrpc "https://raw.githubusercontent.com/rewasu91/server/ma
 wget -O add-trgo "https://raw.githubusercontent.com/rewasu91/server/main/add/add-trgo.sh"
 wget -O xp "https://raw.githubusercontent.com/rewasu91/server/main/delete/xp.sh"
 wget -O cek-xrayxtls "https://raw.githubusercontent.com/rewasu91/server/main/cek/cek-xrayxtls.sh"
+wget -O clearlog "https://raw.githubusercontent.com/rewasu91/server/main/mix/clearlog.sh"
 
 chmod +x add-v2rayvless
 chmod +x add-v2rayvmess
@@ -40,3 +42,4 @@ chmod +x add-xraytrojangrpc
 chmod +x add-trgo
 chmod +x xp
 chmod +x cek-xrayxtls
+chmod +x clearlog

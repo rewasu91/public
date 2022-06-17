@@ -1,9 +1,12 @@
 #!/bin/bash
 
 cd /usr/bin
-rm renew-xrayxtls
+
 rm cek-xrayxtls
-wget -O del-xrayxtls "https://raw.githubusercontent.com/rewasu91/server/main/delete/del-xrayxtls.sh"
+rm renew-xrayxtls
+
+wget -O cek-xrayxtls "https://raw.githubusercontent.com/rewasu91/server/main/cek/cek-xrayxtls.sh"
 wget -O renew-xrayxtls "https://raw.githubusercontent.com/rewasu91/server/main/renew/renew-xrayxtls.sh"
-chmod +x del-xrayxtls
+
+chmod +x cek-xrayxtls
 chmod +x renew-xrayxtls
